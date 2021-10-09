@@ -2,13 +2,12 @@
 
 <h4>👋 Hi there I'am AYOUB AMAZIGH!</h4>
 
-<h5>📖 About me 📖</h5>
-    
-   I'm from Morocco,I am 21 years old, I am I web and desktop apps developer.
+    I'm from Morocco, i am I web and desktop apps developer, I also like working with databases.
 
+<h5>📖 About me 📖</h5>
 
 - 🔭 I’m currently working on Devoloping my skills.
-- 🌱 I’m currently learning new freamworks
-- 📫 you can contact me on my email ayoubamazigh 
+- 🌱 I’m currently learning new freamworks and technologies.
+- 📫 feel free to contact me on my email <a mailto='ayoubamazigh@tutanota.de' >ayoubamazigh@tutanota.de</a>
 - 😄 Pronouns: ...
 -->
