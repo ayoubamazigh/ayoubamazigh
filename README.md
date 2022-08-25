@@ -9,5 +9,4 @@
 - 🌱 Learning about new freamworks and technologies.
 - 📫 feel free to contact me on my:<br>
     --> Email: <a mailto='ayoubamazigh@tutanota.de' >ayoubamazigh@tutanota.de</a><br>
-    --> Facebook account: <a href='https://www.facebook.com/Ayoub.fx.dev/' >Ayoub FX</a>
-- 😄 Pronouns: he/him.
+    --> Facebook account: <a href='https://www.facebook.com/Ayoub.fx.dev/' >Ayoub Abe</a>
