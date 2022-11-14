@@ -21,7 +21,3 @@
     --> Facebook account: <a href='https://www.facebook.com/Ayoube.abe/' >Ayoub Abe</a><br>
     --> Linked in profile: <a href='https://www.linkedin.com/in/ayoubamazigh/'>Ayoub Amazigh</a>
   
-
-# 💻TECHNOLOGIES <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
-  
-  ![HTML5](https://img.shields.io/endpoint?url=<URL>&style<STYLE>)
