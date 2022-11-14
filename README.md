@@ -7,18 +7,19 @@
 </p>
 
 ---
-<div align="center">
+<div align="right">
 
   # 💫About Me :
   
-    a 22 years old web site and desktop developer, living in the beloved Morocco 🥰, looking for new opportunities to chalenge my self.
+    22 years old full stack developer, living in the beloved Morocco 🥰.
+      looking for new opportunities to chalenge my self.
 
 - 🔭 I’m currently working on Devoloping my skills.
 - 🌱 Learning about new freamworks and technologies: LARAVEL, REACT.JS
 - 📫 feel free to contact me on my:<br>
     --> Email: <a mailto='ayoub.amazigh.200@gmail.com' >ayoub.amazigh.200@gmail.com</a><br>
     --> Facebook account: <a href='https://www.facebook.com/Ayoube.abe/' >Ayoub Abe</a>
-    --> Linked in profile: 
+    --> Linked in profile: <a href='https://www.linkedin.com/in/ayoubamazigh/'>Ayoub Amazigh</a>
   
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
