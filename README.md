@@ -7,7 +7,7 @@
 </p>
 
 ---
-<div align="right">
+<div align="left">
 
   # 💫About Me :
   
