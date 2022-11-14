@@ -1,32 +1,25 @@
 <h3 align="center">
-  Welcome to my profile!
+  Welcome to Ayoube's profile :)!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/Ayoubamazigh"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Full+Stack+Developer;FRONT+END:+HTML5,+CSS3,+JAVASCRIPT;Back+End:+PHP,+MySQL+SQL+SERVER;DESK+TOP:+JAVA,+VB.NET;OPERATING+SYTEMS:+LINUX,+WINDOWS...;"></a>
+  <a href="https://github.com/Ayoubamazigh"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Full+Stack+Developer;Front+End:+HTML5,+CSS3,+JAVASCRIPT;Back+End:+PHP,+MySQL,+SQLSERVER;DESKTOP:+JAVA,+VB.NET;Operating+Systems:+LINUX,+WINDOWS...;"></a>
 </p>
 
 ---
 <div align="center">
+
+  # 💫About Me :
   
-# 💫About Me :
-🔭 I’m currently working on my github page : https://codewhiteweb.cf
+    a 22 years old web site and desktop developer, living in the beloved Morocco 🥰, looking for new opportunities to chalenge my self.
+
+- 🔭 I’m currently working on Devoloping my skills.
+- 🌱 Learning about new freamworks and technologies: LARAVEL, REACT.JS
+- 📫 feel free to contact me on my:<br>
+    --> Email: <a mailto='ayoub.amazigh.200@gmail.com' >ayoub.amazigh.200@gmail.com</a><br>
+    --> Facebook account: <a href='https://www.facebook.com/Ayoube.abe/' >Ayoub Abe</a>
+    --> Linked in profile: 
   
-🌱 I’m currently learning : Node.js
-
-  👯 I’m looking to collaborate on my webpage
-
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
-
-  📫 How to reach me:  
-  Mail me at "web.codewhite@gmail.com" or 
-  scroll to bottom of the page of "https://codewhiteweb.cf" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
-
-
 ## 🌐Socials
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/CodeWhiteWeb) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/code_white_web) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/CodeWhiteWeb) 
 
