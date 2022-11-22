@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://github.com/Ayoubamazigh/ayoubamazigh"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi,+welcome+to+my+Github+profile;I+am+a+Full+Stack+Developer;Front+End:+HTML5,+CSS3,+JAVASCRIPT;Back+End:+PHP,+MySQL,+SQLSERVER+...;DESKTOP:+JAVA,+VB.NET;Operating+Systems:+LINUX,+WINDOWS+...;"></a>
+  <a href="https://github.com/Ayoubamazigh/ayoubamazigh"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi!,+welcome+to+my+Github+profile;I+am+a+Full+Stack+Developer+...;FrontEnd:+HTML5,+CSS3,JavaScript;BackEnd:+PHP,+MySQL,+SQLSERVER+...;DESKTOP:+JAVA,+VB.NET;"></a>
 </p>
 
 ---
