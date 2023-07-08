@@ -19,6 +19,5 @@
 - 🌱 Learning about new freamworks and technologies: Flutter, DJANGO...
 - 📫 feel free to contact me on my:<br>
     --> Email: <a mailto='ayoub.amazigh.200@gmail.com' >ayoub.amazigh.200@gmail.com</a><br>
-    --> Facebook account: <a href='https://www.facebook.com/Ayoube.abe/' >Ayoub Abe</a><br>
     --> Linked in profile: <a href='https://www.linkedin.com/in/ayoubamazigh/'>Ayoub Amazigh</a>
   
