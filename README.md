@@ -1,23 +1,117 @@
-<h2 align="center">
-  Welcome To My Github Profile !
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm AYOUB AMAZIGH</h1></summary>
+  </ul>
+</div>
+
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
+
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">The Sherlock Holmes of debugging</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- 🔭 I’m currently working on **AWS, DOCKER, VUE.js, Tailwind CSS**
+
+- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+
+- ☁️ I've keen interest in cross-platform applications. So,I'm learning **Flutter**
+
+- 📝 I regularly write articles on [ayoubx.dev](https://blog.ayoubx.dev/)
+
+- 💬 Ask me about **PHP, PYTHON, LARAVEL, DJANGO, HTML5, CSS3, SEO, CYBER SECURITY**
+
+- 📫 Feel free to reach me out **ayoub.amazigh.200@gmail.com**
+
+<!--Intro end-->
+
+
+
+<!--- stats & Trophy (start) -->
 <p align="center">
-  <a href="https://github.com/Ayoubamazigh/ayoubamazigh"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi!,+Welcome+To+My+Github+Profile;I+am+a+Full+Stack+Developer+;FrontEnd:+HTML5,+CSS3,+JavaScript;BackEnd:+DJANGO,+PHP,+SQL...;DESKTOP:+JAVA;"></a>
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ayoub-amazigh&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-amazigh&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayoub-amazigh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+<!--- trophy (start) -->
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ayoub-amazigh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+<!--- trophy (start) -->
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,php,laravel,py,django,bootstrap,html,css,docker,github,js,linux,windows,cpanel,md,mysql,sqlserver,sqlite,tailwind,vscode&perline=14" />
+  </a>
 </p>
 
----
-<div align="left">
 
-  # 💫About Me :
-  
-    23 years old full stack developer, living in the beloved Morocco 🥰.looking for new opportunities
-    to chalenge my self.
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
 
-- 🔭 I’m currently working on Devoloping my skills.
-- 🌱 Learning about new freamworks and technologies: Flutter, DJANGO...
-- 📫 feel free to contact me on my:<br>
-    --> Email: <a mailto='ayoub.amazigh.200@gmail.com' >ayoub.amazigh.200@gmail.com</a><br>
-    --> Linked in profile: <a href='https://www.linkedin.com/in/ayoubamazigh/'>Ayoub Amazigh</a>
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/ayoub-amazigh/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://twitter.com/ayoubeabe" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a> 
+<a href="https://ayoubx.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
   
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=ayoub-amazigh&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
