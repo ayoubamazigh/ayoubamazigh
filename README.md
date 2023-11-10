@@ -25,7 +25,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, DOCKER, VUE.js, Tailwind CSS**
+- 🔭 I’m currently working on **AWS, Git, DOCKER, Tailwind CSS**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
