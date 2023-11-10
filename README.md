@@ -31,7 +31,7 @@
 
 - ☁️ I've keen interest in cross-platform applications. So,I'm learning **Flutter**
 
-- 📝 I regularly write articles on [ayoubx.dev](https://blog.ayoubx.dev/)
+- 📝 I regularly write articles on [ayoubx.dev](http://ayoubdev.rf.gd/)
 
 - 💬 Ask me about **PHP, PYTHON, LARAVEL, DJANGO, HTML5, CSS3, SEO, CYBER SECURITY**
 
