@@ -8,14 +8,6 @@
   </ul>
 </div>
 
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -25,17 +17,17 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, Git, DOCKER, Tailwind CSS**
+- 🔭 I’m currently working on **Git, DOCKER, Vu.js, Tailwind CSS**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cross-platform applications. So,I'm learning **Flutter**
+- ☁️ I've keen interest in cross-platform applications. So,I'm Intrested **Flutter**
 
-- 📝 I regularly write articles on [ayoubx.dev](http://ayoubdev.rf.gd/)
+- 📝 I regularly write articles on [Kerosene.dev](https://kerosene.dev/)
 
-- 💬 Ask me about **PHP, PYTHON, LARAVEL, DJANGO, HTML5, CSS3, SEO, CYBER SECURITY**
+- 💬 Ask me about **PHP, PYTHON, LARAVEL, DJANGO, HTML5, CSS3, SEO, CYBER SECURITY, Networking**
 
-- 📫 Feel free to reach me out **ayoub.amazigh.200@gmail.com**
+- 📫 Feel free to reach me out **Hi@kerosene.dev** or **ayoub.amazigh.200@gmail.com**
 
 <!--Intro end-->
 
