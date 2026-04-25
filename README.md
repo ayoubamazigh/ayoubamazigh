@@ -4,23 +4,33 @@
 
 <div align="center">
   <h1>✨ AYOUB AMAZIGH ✨</h1>
-  <p><b>Only Full-Stack vibe codding from now on</b></p>
+  <p><b>Only Full-Stack Lazy Vibe Codding From Now On</b></p>
 
-  <code>Building the future of scalable applications  of AI-augmented development.</code>
+  <code>Building applications that makes you lazy and orginized using the powers of AI.</code>
 
   <br><br>
 
-  <a href="https://arnbx.com/">
-    <img src="https://img.shields.io/badge/Journal-Kerosene.dev-000000?style=for-the-badge&logo=ghost&logoColor=white" />
-  </a>
-  <a href="mailto:ayoub@arnbx.com">
-    <img src="https://img.shields.io/badge/Direct-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+  
+ <div align="center">
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ayoub-amazigh&icon=3&color=6" alt="Visitor Count" />
-</p>
+  <a href="https://arnbx.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+
+  <a href="[https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/ayoub-amazigh/?locale=en)">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:ayoub@arnbx.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://wa.me/+212648068210">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+</div>
+</div>
 
 ---
 
@@ -80,7 +90,5 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <br>
-  <code>"Code is poetry. Architecture is the rhythm."</code>
+  <code>"Code is poetry. Architecture is the rhythm. Networking is the Papper."</code>
 </p>
