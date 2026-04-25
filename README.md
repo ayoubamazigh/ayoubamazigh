@@ -2,64 +2,85 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm AYOUB</h1>
-<h3 align="center">AI Developer | Vibecoder | Full-Stack Architect</h3>
+<div align="center">
+  <h1>✨ AYOUB AMAZIGH ✨</h1>
+  <p><b>Only Full-Stack vibe codding from now on</b></p>
+
+  <code>Building the future of scalable applications  of AI-augmented development.</code>
+
+  <br><br>
+
+  <a href="https://arnbx.com/">
+    <img src="https://img.shields.io/badge/Journal-Kerosene.dev-000000?style=for-the-badge&logo=ghost&logoColor=white" />
+  </a>
+  <a href="mailto:ayoub@arnbx.com">
+    <img src="https://img.shields.io/badge/Direct-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=ayoub-amazigh&icon=3&color=6">
-    <img src="https://visitcount.itsvg.in/api?id=ayoub-amazigh&icon=3&color=6" />
-  </a>
+  <img src="https://visitcount.itsvg.in/api?id=ayoub-amazigh&icon=3&color=6" alt="Visitor Count" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🛰️ The Digital Blueprint
 
-- 🤖 **Current Focus:** AI Development and **Vibecoding**—leveraging high-level abstractions to build at the speed of thought.
-- 🔭 **Working on:** Scaling applications with **Git, Docker, Vue.js, and Tailwind CSS**.
-- 🌱 **Learning journey:** Mastering **Hyper Beast Stacks** to create ultra-scalable, intelligent applications.
-- ☁️ **Cloud & Mobile:** Deep interest in cross-platform ecosystem via **Flutter**.
-- 📝 **Writing:** Sharing technical insights and AI workflows at [Kerosene.dev](https://kerosene.dev/).
-- 💬 **Ask me about:** AI Integration, PHP, Python, Laravel, Django, Networking, SEO, and Cyber Security.
-- 📫 **Reach me at:** [Hi@kerosene.dev](mailto:Hi@kerosene.dev) or [ayoub.amazigh.200@gmail.com](mailto:ayoub.amazigh.200@gmail.com).
+- **⚡ Vibecoding & Flow:** Redefining the development lifecycle by merging human intuition with LLM-driven velocity.
+- **🏗️ Architecture:** Currently optimizing the **Hyper Beast Stack**—focused on low-latency, high-concurrency environments.
+- **🤖 Intelligence:** Integrating Neural Networks and LLM agents into legacy and modern web ecosystems.
+- **🛡️ Infrastructure:** Hardening applications through **Docker** containerization and **Cyber Security** best practices.
+- **📡 Connectivity:** Deep-diving into **Networking** protocols and **SEO** optimization for global visibility.
 
 ---
 
-### 👨🏻‍💻 Technologies & Tools
+### 🧰 The Arsenal
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Artificial Intelligence** | Python, Django, Prompt Engineering, Agentic Workflows |
+| **Backend Core** | PHP (Native), Laravel, SQL Server, MySQL, SQLite |
+| **Frontend Artistry** | Vue.js, Tailwind CSS, Bootstrap, HTML5, JavaScript |
+| **DevOps & Cloud** | Docker, Git, Linux, CPanel, Markdown |
+| **Cross-Platform** | Flutter, Mobile Ecosystems |
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,php,laravel,py,django,bootstrap,html,css,docker,github,js,linux,windows,cpanel,md,mysql,sqlserver,sqlite,tailwind,vscode&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,django,php,laravel,js,vue,tailwind,docker,git,linux,mysql,sqlite,flutter,vscode&perline=14" />
   </a>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Performance Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ayoubamazigh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="100%"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ayoubamazigh&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="Trophies" width="100%"/>
 </p>
-
-### 📊 Statistics
 
 <p align="center">
   <table align="center">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=ayoubamazigh&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
-        <br><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubamazigh&theme=dark&hide_border=false" alt="GitHub Streak" />
+        <img src="https://github-readme-stats.vercel.app/api?username=ayoubamazigh&theme=dark&show_icons=true&count_private=true" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayoubamazigh&theme=dark&layout=compact&hide_border=false" alt="Top Languages" height="285px" />
+        <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayoubamazigh&theme=dark&layout=compact" height="165px" />
       </td>
     </tr>
   </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayoubamazigh&theme=dark&hide_border=false" width="100%" />
+</p>
+
+---
+
+### 🧬 Contribution Flow
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Commit Snake" />
 </p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <br>
+  <code>"Code is poetry. Architecture is the rhythm."</code>
 </p>
